@@ -1,3 +1,6 @@
-# Mario Kart 8 – Statistics
+# Mario Kart 8 Deluxe – Statistics
+
 ## Source
- * http://i.imgur.com/WwqJF4O.png
+
+- Repository based on https://github.com/woodnathan/MarioKart8-Stats
+- Data from https://www.mariowiki.com/
