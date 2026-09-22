@@ -8,14 +8,21 @@ import (
 	"fmt"
 )
 
-var fields = []string { "type", "name", "speed", "speed_water", "speed_air", "speed_ground", "acceleration", "weight", "handling", "handling_water", "handling_air", "handling_ground", "traction", "mini_turbo"}
+var fields = []string { "name", "speed_ground", "speed_water", "speed_air", "speed_antigravity", "acceleration", "weight", "handling_ground", "handling_water", "handling_air", "handling_antigravity", "traction", "mini_turbo", "invincibility", "trailing"}
+
+// trailing column types (tires and gliders have no trailing column)
+const (
+	trailingNone = ""
+	trailingType = "type"
+	trailingVehicleSize = "vehicle_size"
+)
 
 
 type MultipartElement struct {
-	Value float64 `json:"value"`
+	Ground float64 `json:"ground"`
 	Water float64 `json:"water"`
 	Air float64 `json:"air"`
-	Ground float64 `json:"ground"`
+	AntiGravity float64 `json:"antigravity"`
 }
 
 type Speed struct {
@@ -27,7 +34,6 @@ type Handling struct {
 }
 
 type Record struct {
-	Type string `json:"type"`
 	Name string `json:"name"`
 	Speed Speed `json:"speed"`
 	Acceleration float64 `json:"acceleration"`
@@ -35,6 +41,9 @@ type Record struct {
 	Handling Handling `json:"handling"`
 	Traction float64 `json:"traction"`
 	MiniTurbo float64 `json:"mini_turbo"`
+	Invincibility float64 `json:"invincibility"`
+	Type string `json:"type,omitempty"`
+	VehicleSize string `json:"vehicle_size,omitempty"`
 }
 
 func fieldIndex(field string) (int) {
@@ -52,10 +61,10 @@ func parseFloat64(s string) float64 {
 }
 
 func (element *MultipartElement) parseMultipartElement(fields []string) {
-	element.Value = parseFloat64(fields[0])
+	element.Ground = parseFloat64(fields[0])
 	element.Water = parseFloat64(fields[1])
 	element.Air = parseFloat64(fields[2])
-	element.Ground = parseFloat64(fields[3])
+	element.AntiGravity = parseFloat64(fields[3])
 }
 
 func parseSpeed(fields []string) Speed {
@@ -69,7 +78,7 @@ func parseHandling(fields []string) Handling {
 	return h
 }
 
-func generateFile(input string, output string) error {
+func generateFile(input string, output string, trailing string) error {
 	infile, err := os.Open(input)
 	if (err != nil) {
 		return err
@@ -86,14 +95,20 @@ func generateFile(input string, output string) error {
 	for idx, record := range(records) {
 		var outrecord Record
 		
-		outrecord.Type = record[fieldIndex("type")]
 		outrecord.Name = record[fieldIndex("name")]
-		outrecord.Speed = parseSpeed(record[fieldIndex("speed"):])
+		outrecord.Speed = parseSpeed(record[fieldIndex("speed_ground"):])
 		outrecord.Acceleration = parseFloat64(record[fieldIndex("acceleration")])
 		outrecord.Weight = parseFloat64(record[fieldIndex("weight")])
-		outrecord.Handling = parseHandling(record[fieldIndex("handling"):])
+		outrecord.Handling = parseHandling(record[fieldIndex("handling_ground"):])
 		outrecord.Traction = parseFloat64(record[fieldIndex("traction")])
 		outrecord.MiniTurbo = parseFloat64(record[fieldIndex("mini_turbo")])
+		outrecord.Invincibility = parseFloat64(record[fieldIndex("invincibility")])
+		switch (trailing) {
+		case trailingType:
+			outrecord.Type = record[fieldIndex("trailing")]
+		case trailingVehicleSize:
+			outrecord.VehicleSize = record[fieldIndex("trailing")]
+		}
 		
 		outrecords[idx] = outrecord
 	}
@@ -109,18 +124,18 @@ func generateFile(input string, output string) error {
 	return err
 }
 
-func readFile(name string) {
+func readFile(name string, trailing string) {
 	input := fmt.Sprintf("%s.csv", name)
 	output := fmt.Sprintf("json/%s.json", name)
-	err := generateFile(input, output)
+	err := generateFile(input, output, trailing)
 	if (err != nil) {
 		fmt.Println(err)
 	}
 }
 
 func main() {
-	readFile("characters")
-	readFile("bodies")
-	readFile("tires")
-	readFile("gliders")
+	readFile("characters", trailingVehicleSize)
+	readFile("bodies", trailingType)
+	readFile("tires", trailingNone)
+	readFile("gliders", trailingNone)
 }

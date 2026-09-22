@@ -1,19 +1,14 @@
-Type,Body,Speed,Speed (Water),Speed (Air),Speed (Ground),Acceleration,Weight,Handling,Handling (Water),Handling (Air),Handling(Ground),Traction,Mini Turbo
-,Standard,0,0.5,0,0,0,0,0,0,0,0,0,0
-,Blue Standard,0,0.5,0,0,0,0,0,0,0,0,0,0
-,Offroad,0,0.5,0,0,0,0,0,0,0,0,0,0
-,Retro Offroad,0,0.5,0,0,0,0,0,0,0,0,0,0
-,Monster,0,0,0,-0.5,0,-0.5,-0.75,-0.75,-0.75,-0.75,0.75,0
-,Hot Monster,0,0,0,-0.5,0,-0.5,-0.75,-0.75,-0.75,-0.75,0.75,0
-,Slick,0.5,-0.5,0.5,0.5,-0.25,0.25,0,0,0,0,-1,0.25
-,Cyber Slick,0.5,-0.5,0.5,0.5,-0.25,0.25,0,0,0,0,-1,0.25
-,Roller,-0.5,0.5,0.5,-0.5,1,-0.5,0.25,0.25,0.25,0.25,-0.25,1.5
-,Azure Roller,-0.5,0.5,0.5,-0.5,1,-0.5,0.25,0.25,0.25,0.25,-0.25,1.5
-,Button,-0.5,0.5,0.5,-0.5,1,-0.5,0.25,0.25,0.25,0.25,-0.25,1.5
-,Slim,0.25,0.25,0.25,0.25,0.25,0,0.25,0.25,0.25,0.25,-0.5,0
-,Crimson Slim,0.25,0.25,0.25,0.25,0.25,0,0.25,0.25,0.25,0.25,-0.5,0
-,Metal,0.25,0.25,0.25,0.25,0.25,-0.5,0,0,0,0,-0.5,0
-,Gold,0.25,0.25,0.25,0.25,0.25,-0.5,0,0,0,0,-0.5,0
-,Wood,-0.2,-0.5,0.25,-0.25,0.25,-0.25,-0.25,-0.5,0,-0.25,0.5,0.75
-,Sponge,-0.2,-0.5,0.25,-0.25,0.25,-0.25,-0.25,-0.5,0,-0.25,0.5,0.75
-,Cushion,-0.2,-0.5,0.25,-0.25,0.25,-0.25,-0.25,-0.5,0,-0.25,0.5,0.75
+Tire,Speed (Ground),Speed (Water),Speed (Air),Speed (Anti-Gravity),Acceleration,Weight,Handling (Ground),Handling (Water),Handling (Air),Handling (Anti-Gravity),Traction,Mini Turbo,Invincibility
+"Roller, Azure Roller",0,3,3,0,6,0,4,4,4,4,4,6,0
+"Button, Leaf Tires",1,2,2,2,5,0,3,3,2,4,3,5,3
+Cushion,1,1,4,1,4,1,2,1,3,2,6,5,6
+Sponge,1,1,4,1,4,1,2,1,3,2,6,5,4
+GLA Tires,2,3,3,2,4,2,3,3,3,3,5,4,5
+"Standard, Blue Standard",2,3,3,2,4,2,3,3,3,3,5,4,4
+"Slim, Wood, Crimson Slim",3,2,2,4,2,2,4,4,4,3,1,3,5
+"Monster, Hot Monster",3,2,1,2,2,4,0,1,1,0,7,3,6
+Ancient Tires,3,2,1,2,2,4,0,1,1,0,7,3,5
+"Off-Road, Retro Off-Road, Triforce Tires",3,4,1,2,3,3,1,1,2,2,6,3,6
+"Slick, Cyber Slick",4,0,0,4,1,3,2,0,1,2,0,2,5
+Metal,4,3,2,1,0,4,2,2,0,1,2,2,6
+Gold Tires,4,3,2,1,0,4,2,2,0,1,2,2,5

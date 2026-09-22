@@ -1,362 +1,262 @@
 [
   {
-    "type": "",
-    "name": "Standard",
+    "name": "Roller, Azure Roller",
     "speed": {
-      "value": 0,
-      "water": 0.5,
-      "air": 0,
-      "ground": 0
+      "ground": 0,
+      "water": 3,
+      "air": 3,
+      "antigravity": 0
     },
-    "acceleration": 0,
+    "acceleration": 6,
     "weight": 0,
     "handling": {
-      "value": 0,
-      "water": 0,
-      "air": 0,
-      "ground": 0
+      "ground": 4,
+      "water": 4,
+      "air": 4,
+      "antigravity": 4
     },
-    "traction": 0,
-    "mini_turbo": 0
+    "traction": 4,
+    "mini_turbo": 6,
+    "invincibility": 0
   },
   {
-    "type": "",
-    "name": "Blue Standard",
+    "name": "Button, Leaf Tires",
     "speed": {
-      "value": 0,
-      "water": 0.5,
-      "air": 0,
-      "ground": 0
+      "ground": 1,
+      "water": 2,
+      "air": 2,
+      "antigravity": 2
     },
-    "acceleration": 0,
+    "acceleration": 5,
     "weight": 0,
     "handling": {
-      "value": 0,
-      "water": 0,
-      "air": 0,
-      "ground": 0
+      "ground": 3,
+      "water": 3,
+      "air": 2,
+      "antigravity": 4
     },
-    "traction": 0,
-    "mini_turbo": 0
+    "traction": 3,
+    "mini_turbo": 5,
+    "invincibility": 3
   },
   {
-    "type": "",
-    "name": "Offroad",
-    "speed": {
-      "value": 0,
-      "water": 0.5,
-      "air": 0,
-      "ground": 0
-    },
-    "acceleration": 0,
-    "weight": 0,
-    "handling": {
-      "value": 0,
-      "water": 0,
-      "air": 0,
-      "ground": 0
-    },
-    "traction": 0,
-    "mini_turbo": 0
-  },
-  {
-    "type": "",
-    "name": "Retro Offroad",
-    "speed": {
-      "value": 0,
-      "water": 0.5,
-      "air": 0,
-      "ground": 0
-    },
-    "acceleration": 0,
-    "weight": 0,
-    "handling": {
-      "value": 0,
-      "water": 0,
-      "air": 0,
-      "ground": 0
-    },
-    "traction": 0,
-    "mini_turbo": 0
-  },
-  {
-    "type": "",
-    "name": "Monster",
-    "speed": {
-      "value": 0,
-      "water": 0,
-      "air": 0,
-      "ground": -0.5
-    },
-    "acceleration": 0,
-    "weight": -0.5,
-    "handling": {
-      "value": -0.75,
-      "water": -0.75,
-      "air": -0.75,
-      "ground": -0.75
-    },
-    "traction": 0.75,
-    "mini_turbo": 0
-  },
-  {
-    "type": "",
-    "name": "Hot Monster",
-    "speed": {
-      "value": 0,
-      "water": 0,
-      "air": 0,
-      "ground": -0.5
-    },
-    "acceleration": 0,
-    "weight": -0.5,
-    "handling": {
-      "value": -0.75,
-      "water": -0.75,
-      "air": -0.75,
-      "ground": -0.75
-    },
-    "traction": 0.75,
-    "mini_turbo": 0
-  },
-  {
-    "type": "",
-    "name": "Slick",
-    "speed": {
-      "value": 0.5,
-      "water": -0.5,
-      "air": 0.5,
-      "ground": 0.5
-    },
-    "acceleration": -0.25,
-    "weight": 0.25,
-    "handling": {
-      "value": 0,
-      "water": 0,
-      "air": 0,
-      "ground": 0
-    },
-    "traction": -1,
-    "mini_turbo": 0.25
-  },
-  {
-    "type": "",
-    "name": "Cyber Slick",
-    "speed": {
-      "value": 0.5,
-      "water": -0.5,
-      "air": 0.5,
-      "ground": 0.5
-    },
-    "acceleration": -0.25,
-    "weight": 0.25,
-    "handling": {
-      "value": 0,
-      "water": 0,
-      "air": 0,
-      "ground": 0
-    },
-    "traction": -1,
-    "mini_turbo": 0.25
-  },
-  {
-    "type": "",
-    "name": "Roller",
-    "speed": {
-      "value": -0.5,
-      "water": 0.5,
-      "air": 0.5,
-      "ground": -0.5
-    },
-    "acceleration": 1,
-    "weight": -0.5,
-    "handling": {
-      "value": 0.25,
-      "water": 0.25,
-      "air": 0.25,
-      "ground": 0.25
-    },
-    "traction": -0.25,
-    "mini_turbo": 1.5
-  },
-  {
-    "type": "",
-    "name": "Azure Roller",
-    "speed": {
-      "value": -0.5,
-      "water": 0.5,
-      "air": 0.5,
-      "ground": -0.5
-    },
-    "acceleration": 1,
-    "weight": -0.5,
-    "handling": {
-      "value": 0.25,
-      "water": 0.25,
-      "air": 0.25,
-      "ground": 0.25
-    },
-    "traction": -0.25,
-    "mini_turbo": 1.5
-  },
-  {
-    "type": "",
-    "name": "Button",
-    "speed": {
-      "value": -0.5,
-      "water": 0.5,
-      "air": 0.5,
-      "ground": -0.5
-    },
-    "acceleration": 1,
-    "weight": -0.5,
-    "handling": {
-      "value": 0.25,
-      "water": 0.25,
-      "air": 0.25,
-      "ground": 0.25
-    },
-    "traction": -0.25,
-    "mini_turbo": 1.5
-  },
-  {
-    "type": "",
-    "name": "Slim",
-    "speed": {
-      "value": 0.25,
-      "water": 0.25,
-      "air": 0.25,
-      "ground": 0.25
-    },
-    "acceleration": 0.25,
-    "weight": 0,
-    "handling": {
-      "value": 0.25,
-      "water": 0.25,
-      "air": 0.25,
-      "ground": 0.25
-    },
-    "traction": -0.5,
-    "mini_turbo": 0
-  },
-  {
-    "type": "",
-    "name": "Crimson Slim",
-    "speed": {
-      "value": 0.25,
-      "water": 0.25,
-      "air": 0.25,
-      "ground": 0.25
-    },
-    "acceleration": 0.25,
-    "weight": 0,
-    "handling": {
-      "value": 0.25,
-      "water": 0.25,
-      "air": 0.25,
-      "ground": 0.25
-    },
-    "traction": -0.5,
-    "mini_turbo": 0
-  },
-  {
-    "type": "",
-    "name": "Metal",
-    "speed": {
-      "value": 0.25,
-      "water": 0.25,
-      "air": 0.25,
-      "ground": 0.25
-    },
-    "acceleration": 0.25,
-    "weight": -0.5,
-    "handling": {
-      "value": 0,
-      "water": 0,
-      "air": 0,
-      "ground": 0
-    },
-    "traction": -0.5,
-    "mini_turbo": 0
-  },
-  {
-    "type": "",
-    "name": "Gold",
-    "speed": {
-      "value": 0.25,
-      "water": 0.25,
-      "air": 0.25,
-      "ground": 0.25
-    },
-    "acceleration": 0.25,
-    "weight": -0.5,
-    "handling": {
-      "value": 0,
-      "water": 0,
-      "air": 0,
-      "ground": 0
-    },
-    "traction": -0.5,
-    "mini_turbo": 0
-  },
-  {
-    "type": "",
-    "name": "Wood",
-    "speed": {
-      "value": -0.2,
-      "water": -0.5,
-      "air": 0.25,
-      "ground": -0.25
-    },
-    "acceleration": 0.25,
-    "weight": -0.25,
-    "handling": {
-      "value": -0.25,
-      "water": -0.5,
-      "air": 0,
-      "ground": -0.25
-    },
-    "traction": 0.5,
-    "mini_turbo": 0.75
-  },
-  {
-    "type": "",
-    "name": "Sponge",
-    "speed": {
-      "value": -0.2,
-      "water": -0.5,
-      "air": 0.25,
-      "ground": -0.25
-    },
-    "acceleration": 0.25,
-    "weight": -0.25,
-    "handling": {
-      "value": -0.25,
-      "water": -0.5,
-      "air": 0,
-      "ground": -0.25
-    },
-    "traction": 0.5,
-    "mini_turbo": 0.75
-  },
-  {
-    "type": "",
     "name": "Cushion",
     "speed": {
-      "value": -0.2,
-      "water": -0.5,
-      "air": 0.25,
-      "ground": -0.25
+      "ground": 1,
+      "water": 1,
+      "air": 4,
+      "antigravity": 1
     },
-    "acceleration": 0.25,
-    "weight": -0.25,
+    "acceleration": 4,
+    "weight": 1,
     "handling": {
-      "value": -0.25,
-      "water": -0.5,
-      "air": 0,
-      "ground": -0.25
+      "ground": 2,
+      "water": 1,
+      "air": 3,
+      "antigravity": 2
     },
-    "traction": 0.5,
-    "mini_turbo": 0.75
+    "traction": 6,
+    "mini_turbo": 5,
+    "invincibility": 6
+  },
+  {
+    "name": "Sponge",
+    "speed": {
+      "ground": 1,
+      "water": 1,
+      "air": 4,
+      "antigravity": 1
+    },
+    "acceleration": 4,
+    "weight": 1,
+    "handling": {
+      "ground": 2,
+      "water": 1,
+      "air": 3,
+      "antigravity": 2
+    },
+    "traction": 6,
+    "mini_turbo": 5,
+    "invincibility": 4
+  },
+  {
+    "name": "GLA Tires",
+    "speed": {
+      "ground": 2,
+      "water": 3,
+      "air": 3,
+      "antigravity": 2
+    },
+    "acceleration": 4,
+    "weight": 2,
+    "handling": {
+      "ground": 3,
+      "water": 3,
+      "air": 3,
+      "antigravity": 3
+    },
+    "traction": 5,
+    "mini_turbo": 4,
+    "invincibility": 5
+  },
+  {
+    "name": "Standard, Blue Standard",
+    "speed": {
+      "ground": 2,
+      "water": 3,
+      "air": 3,
+      "antigravity": 2
+    },
+    "acceleration": 4,
+    "weight": 2,
+    "handling": {
+      "ground": 3,
+      "water": 3,
+      "air": 3,
+      "antigravity": 3
+    },
+    "traction": 5,
+    "mini_turbo": 4,
+    "invincibility": 4
+  },
+  {
+    "name": "Slim, Wood, Crimson Slim",
+    "speed": {
+      "ground": 3,
+      "water": 2,
+      "air": 2,
+      "antigravity": 4
+    },
+    "acceleration": 2,
+    "weight": 2,
+    "handling": {
+      "ground": 4,
+      "water": 4,
+      "air": 4,
+      "antigravity": 3
+    },
+    "traction": 1,
+    "mini_turbo": 3,
+    "invincibility": 5
+  },
+  {
+    "name": "Monster, Hot Monster",
+    "speed": {
+      "ground": 3,
+      "water": 2,
+      "air": 1,
+      "antigravity": 2
+    },
+    "acceleration": 2,
+    "weight": 4,
+    "handling": {
+      "ground": 0,
+      "water": 1,
+      "air": 1,
+      "antigravity": 0
+    },
+    "traction": 7,
+    "mini_turbo": 3,
+    "invincibility": 6
+  },
+  {
+    "name": "Ancient Tires",
+    "speed": {
+      "ground": 3,
+      "water": 2,
+      "air": 1,
+      "antigravity": 2
+    },
+    "acceleration": 2,
+    "weight": 4,
+    "handling": {
+      "ground": 0,
+      "water": 1,
+      "air": 1,
+      "antigravity": 0
+    },
+    "traction": 7,
+    "mini_turbo": 3,
+    "invincibility": 5
+  },
+  {
+    "name": "Off-Road, Retro Off-Road, Triforce Tires",
+    "speed": {
+      "ground": 3,
+      "water": 4,
+      "air": 1,
+      "antigravity": 2
+    },
+    "acceleration": 3,
+    "weight": 3,
+    "handling": {
+      "ground": 1,
+      "water": 1,
+      "air": 2,
+      "antigravity": 2
+    },
+    "traction": 6,
+    "mini_turbo": 3,
+    "invincibility": 6
+  },
+  {
+    "name": "Slick, Cyber Slick",
+    "speed": {
+      "ground": 4,
+      "water": 0,
+      "air": 0,
+      "antigravity": 4
+    },
+    "acceleration": 1,
+    "weight": 3,
+    "handling": {
+      "ground": 2,
+      "water": 0,
+      "air": 1,
+      "antigravity": 2
+    },
+    "traction": 0,
+    "mini_turbo": 2,
+    "invincibility": 5
+  },
+  {
+    "name": "Metal",
+    "speed": {
+      "ground": 4,
+      "water": 3,
+      "air": 2,
+      "antigravity": 1
+    },
+    "acceleration": 0,
+    "weight": 4,
+    "handling": {
+      "ground": 2,
+      "water": 2,
+      "air": 0,
+      "antigravity": 1
+    },
+    "traction": 2,
+    "mini_turbo": 2,
+    "invincibility": 6
+  },
+  {
+    "name": "Gold Tires",
+    "speed": {
+      "ground": 4,
+      "water": 3,
+      "air": 2,
+      "antigravity": 1
+    },
+    "acceleration": 0,
+    "weight": 4,
+    "handling": {
+      "ground": 2,
+      "water": 2,
+      "air": 0,
+      "antigravity": 1
+    },
+    "traction": 2,
+    "mini_turbo": 2,
+    "invincibility": 5
   }
 ]

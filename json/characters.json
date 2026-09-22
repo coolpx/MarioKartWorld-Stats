@@ -1,642 +1,380 @@
 [
   {
-    "type": "Light",
-    "name": "Baby Mario",
+    "name": "Baby Peach, Baby Daisy",
     "speed": {
-      "value": 2.25,
-      "water": 2.25,
-      "air": 2.25,
-      "ground": 2.25
+      "ground": 1,
+      "water": 1,
+      "air": 1,
+      "antigravity": 1
     },
-    "acceleration": 3.25,
-    "weight": 2.25,
+    "acceleration": 4,
+    "weight": 0,
     "handling": {
-      "value": 4.75,
-      "water": 4.75,
-      "air": 4.75,
-      "ground": 4.75
+      "ground": 10,
+      "water": 10,
+      "air": 10,
+      "antigravity": 10
     },
-    "traction": 4.5,
-    "mini_turbo": 3
+    "traction": 5,
+    "mini_turbo": 5,
+    "invincibility": 6,
+    "vehicle_size": "Small"
   },
   {
-    "type": "Light",
-    "name": "Baby Luigi",
+    "name": "Baby Rosalina, Lemmy",
     "speed": {
-      "value": 2.25,
-      "water": 2.25,
-      "air": 2.25,
-      "ground": 2.25
+      "ground": 1,
+      "water": 1,
+      "air": 1,
+      "antigravity": 1
     },
-    "acceleration": 3.25,
-    "weight": 2.25,
+    "acceleration": 5,
+    "weight": 0,
     "handling": {
-      "value": 4.75,
-      "water": 4.75,
-      "air": 4.75,
-      "ground": 4.75
+      "ground": 9,
+      "water": 9,
+      "air": 9,
+      "antigravity": 9
     },
-    "traction": 4.5,
-    "mini_turbo": 3
+    "traction": 3,
+    "mini_turbo": 5,
+    "invincibility": 6,
+    "vehicle_size": "Small"
   },
   {
-    "type": "Light",
-    "name": "Baby Peach",
+    "name": "Baby Mario, Baby Luigi, Dry Bones, Mii (Light)",
     "speed": {
-      "value": 2.25,
-      "water": 2.25,
-      "air": 2.25,
-      "ground": 2.25
+      "ground": 2,
+      "water": 2,
+      "air": 2,
+      "antigravity": 2
     },
-    "acceleration": 3.25,
-    "weight": 2.25,
+    "acceleration": 5,
+    "weight": 1,
     "handling": {
-      "value": 4.75,
-      "water": 4.75,
-      "air": 4.75,
-      "ground": 4.75
-    },
-    "traction": 4.5,
-    "mini_turbo": 3
-  },
-  {
-    "type": "Light",
-    "name": "Baby Daisy",
-    "speed": {
-      "value": 2.25,
-      "water": 2.25,
-      "air": 2.25,
-      "ground": 2.25
-    },
-    "acceleration": 3.25,
-    "weight": 2.25,
-    "handling": {
-      "value": 4.75,
-      "water": 4.75,
-      "air": 4.75,
-      "ground": 4.75
-    },
-    "traction": 4.5,
-    "mini_turbo": 3
-  },
-  {
-    "type": "Light",
-    "name": "Baby Rosalina",
-    "speed": {
-      "value": 2.25,
-      "water": 2.25,
-      "air": 2.25,
-      "ground": 2.25
-    },
-    "acceleration": 3.25,
-    "weight": 2.25,
-    "handling": {
-      "value": 4.75,
-      "water": 4.75,
-      "air": 4.75,
-      "ground": 4.75
-    },
-    "traction": 4.5,
-    "mini_turbo": 3
-  },
-  {
-    "type": "Light",
-    "name": "Lemmy Koopa",
-    "speed": {
-      "value": 2.25,
-      "water": 2.25,
-      "air": 2.25,
-      "ground": 2.25
-    },
-    "acceleration": 3.25,
-    "weight": 2.25,
-    "handling": {
-      "value": 4.75,
-      "water": 4.75,
-      "air": 4.75,
-      "ground": 4.75
-    },
-    "traction": 4.5,
-    "mini_turbo": 3
-  },
-  {
-    "type": "Light",
-    "name": "Mii Light",
-    "speed": {
-      "value": 2.25,
-      "water": 2.25,
-      "air": 2.25,
-      "ground": 2.25
-    },
-    "acceleration": 3.25,
-    "weight": 2.25,
-    "handling": {
-      "value": 4.75,
-      "water": 4.75,
-      "air": 4.75,
-      "ground": 4.75
-    },
-    "traction": 4.5,
-    "mini_turbo": 3
-  },
-  {
-    "type": "Light",
-    "name": "Toad",
-    "speed": {
-      "value": 2.75,
-      "water": 2.75,
-      "air": 2.75,
-      "ground": 2.75
-    },
-    "acceleration": 3,
-    "weight": 2.75,
-    "handling": {
-      "value": 4.25,
-      "water": 4.25,
-      "air": 4.25,
-      "ground": 4.25
-    },
-    "traction": 4.25,
-    "mini_turbo": 2.75
-  },
-  {
-    "type": "Light",
-    "name": "Shy Guy",
-    "speed": {
-      "value": 2.75,
-      "water": 2.75,
-      "air": 2.75,
-      "ground": 2.75
-    },
-    "acceleration": 3,
-    "weight": 2.75,
-    "handling": {
-      "value": 4.25,
-      "water": 4.25,
-      "air": 4.25,
-      "ground": 4.25
-    },
-    "traction": 4.25,
-    "mini_turbo": 2.75
-  },
-  {
-    "type": "Light",
-    "name": "Koopa Troopa",
-    "speed": {
-      "value": 2.75,
-      "water": 2.75,
-      "air": 2.75,
-      "ground": 2.75
-    },
-    "acceleration": 3,
-    "weight": 2.75,
-    "handling": {
-      "value": 4.25,
-      "water": 4.25,
-      "air": 4.25,
-      "ground": 4.25
-    },
-    "traction": 4.25,
-    "mini_turbo": 2.75
-  },
-  {
-    "type": "Light",
-    "name": "Lakitu",
-    "speed": {
-      "value": 2.75,
-      "water": 2.75,
-      "air": 2.75,
-      "ground": 2.75
-    },
-    "acceleration": 3,
-    "weight": 2.75,
-    "handling": {
-      "value": 4.25,
-      "water": 4.25,
-      "air": 4.25,
-      "ground": 4.25
-    },
-    "traction": 4.25,
-    "mini_turbo": 2.75
-  },
-  {
-    "type": "Light",
-    "name": "Wendy Koopa",
-    "speed": {
-      "value": 2.75,
-      "water": 2.75,
-      "air": 2.75,
-      "ground": 2.75
-    },
-    "acceleration": 3,
-    "weight": 2.75,
-    "handling": {
-      "value": 4.25,
-      "water": 4.25,
-      "air": 4.25,
-      "ground": 4.25
-    },
-    "traction": 4.25,
-    "mini_turbo": 2.75
-  },
-  {
-    "type": "Light",
-    "name": "Larry Koopa",
-    "speed": {
-      "value": 2.75,
-      "water": 2.75,
-      "air": 2.75,
-      "ground": 2.75
-    },
-    "acceleration": 3,
-    "weight": 2.75,
-    "handling": {
-      "value": 4.25,
-      "water": 4.25,
-      "air": 4.25,
-      "ground": 4.25
-    },
-    "traction": 4.25,
-    "mini_turbo": 2.75
-  },
-  {
-    "type": "Light",
-    "name": "Toadette",
-    "speed": {
-      "value": 2.75,
-      "water": 2.75,
-      "air": 2.75,
-      "ground": 2.75
-    },
-    "acceleration": 3,
-    "weight": 2.75,
-    "handling": {
-      "value": 4.25,
-      "water": 4.25,
-      "air": 4.25,
-      "ground": 4.25
-    },
-    "traction": 4.25,
-    "mini_turbo": 2.75
-  },
-  {
-    "type": "Medium",
-    "name": "Peach",
-    "speed": {
-      "value": 3.25,
-      "water": 3.25,
-      "air": 3.25,
-      "ground": 3.25
-    },
-    "acceleration": 2.75,
-    "weight": 3.25,
-    "handling": {
-      "value": 3.75,
-      "water": 3.75,
-      "air": 3.75,
-      "ground": 3.75
+      "ground": 8,
+      "water": 8,
+      "air": 8,
+      "antigravity": 8
     },
     "traction": 4,
-    "mini_turbo": 2.5
+    "mini_turbo": 5,
+    "invincibility": 5,
+    "vehicle_size": "Small"
   },
   {
-    "type": "Medium",
-    "name": "Daisy",
+    "name": "Koopa Troopa, Lakitu, Bowser Jr.",
     "speed": {
-      "value": 3.25,
-      "water": 3.25,
-      "air": 3.25,
-      "ground": 3.25
+      "ground": 3,
+      "water": 3,
+      "air": 3,
+      "antigravity": 3
     },
-    "acceleration": 2.75,
-    "weight": 3.25,
+    "acceleration": 4,
+    "weight": 2,
     "handling": {
-      "value": 3.75,
-      "water": 3.75,
-      "air": 3.75,
-      "ground": 3.75
+      "ground": 8,
+      "water": 8,
+      "air": 8,
+      "antigravity": 8
+    },
+    "traction": 5,
+    "mini_turbo": 4,
+    "invincibility": 4,
+    "vehicle_size": "Small"
+  },
+  {
+    "name": "Toadette, Wendy, Isabelle",
+    "speed": {
+      "ground": 3,
+      "water": 3,
+      "air": 3,
+      "antigravity": 3
+    },
+    "acceleration": 5,
+    "weight": 2,
+    "handling": {
+      "ground": 7,
+      "water": 7,
+      "air": 7,
+      "antigravity": 7
+    },
+    "traction": 2,
+    "mini_turbo": 4,
+    "invincibility": 3,
+    "vehicle_size": "Small"
+  },
+  {
+    "name": "Toad, Shy Guy, Larry",
+    "speed": {
+      "ground": 4,
+      "water": 4,
+      "air": 4,
+      "antigravity": 4
+    },
+    "acceleration": 4,
+    "weight": 3,
+    "handling": {
+      "ground": 7,
+      "water": 7,
+      "air": 7,
+      "antigravity": 7
     },
     "traction": 4,
-    "mini_turbo": 2.5
+    "mini_turbo": 4,
+    "invincibility": 3,
+    "vehicle_size": "Small"
   },
   {
-    "type": "Medium",
-    "name": "Yoshi",
+    "name": "Cat Peach, Inkling (Girl), Villager (Female), Diddy Kong",
     "speed": {
-      "value": 3.25,
-      "water": 3.25,
-      "air": 3.25,
-      "ground": 3.25
+      "ground": 5,
+      "water": 5,
+      "air": 5,
+      "antigravity": 5
     },
-    "acceleration": 2.75,
-    "weight": 3.25,
+    "acceleration": 4,
+    "weight": 3,
     "handling": {
-      "value": 3.75,
-      "water": 3.75,
-      "air": 3.75,
-      "ground": 3.75
+      "ground": 6,
+      "water": 6,
+      "air": 6,
+      "antigravity": 6
     },
-    "traction": 4,
-    "mini_turbo": 2.5
+    "traction": 3,
+    "mini_turbo": 4,
+    "invincibility": 3,
+    "vehicle_size": "Medium"
   },
   {
-    "type": "Medium",
-    "name": "Mario",
+    "name": "Peach, Daisy, Birdo, Yoshi, Peachette",
     "speed": {
-      "value": 3.75,
-      "water": 3.77,
-      "air": 3.78,
-      "ground": 3.78
+      "ground": 6,
+      "water": 6,
+      "air": 6,
+      "antigravity": 6
     },
-    "acceleration": 2.5,
-    "weight": 3.75,
+    "acceleration": 3,
+    "weight": 4,
     "handling": {
-      "value": 3.25,
-      "water": 3.25,
-      "air": 3.25,
-      "ground": 3.25
+      "ground": 5,
+      "water": 5,
+      "air": 5,
+      "antigravity": 5
     },
-    "traction": 3.75,
-    "mini_turbo": 2.5
+    "traction": 3,
+    "mini_turbo": 4,
+    "invincibility": 1,
+    "vehicle_size": "Medium"
   },
   {
-    "type": "Medium",
-    "name": "Luigi",
+    "name": "Tanooki Mario, Inkling (Boy), Villager (Male)",
     "speed": {
-      "value": 3.75,
-      "water": 3.77,
-      "air": 3.78,
-      "ground": 3.78
+      "ground": 6,
+      "water": 6,
+      "air": 6,
+      "antigravity": 6
     },
-    "acceleration": 2.5,
-    "weight": 3.75,
+    "acceleration": 3,
+    "weight": 5,
     "handling": {
-      "value": 3.25,
-      "water": 3.25,
-      "air": 3.25,
-      "ground": 3.25
+      "ground": 5,
+      "water": 5,
+      "air": 5,
+      "antigravity": 5
     },
-    "traction": 3.75,
-    "mini_turbo": 2.5
+    "traction": 1,
+    "mini_turbo": 4,
+    "invincibility": 1,
+    "vehicle_size": "Medium"
   },
   {
-    "type": "Medium",
-    "name": "Iggy Koopa",
+    "name": "Luigi, Iggy, Kamek",
     "speed": {
-      "value": 3.75,
-      "water": 3.77,
-      "air": 3.78,
-      "ground": 3.78
-    },
-    "acceleration": 2.5,
-    "weight": 3.75,
-    "handling": {
-      "value": 3.25,
-      "water": 3.25,
-      "air": 3.25,
-      "ground": 3.25
-    },
-    "traction": 3.75,
-    "mini_turbo": 2.5
-  },
-  {
-    "type": "Medium",
-    "name": "Ludwig Koopa",
-    "speed": {
-      "value": 3.75,
-      "water": 3.77,
-      "air": 3.78,
-      "ground": 3.78
-    },
-    "acceleration": 2.5,
-    "weight": 3.75,
-    "handling": {
-      "value": 3.25,
-      "water": 3.25,
-      "air": 3.25,
-      "ground": 3.25
-    },
-    "traction": 3.75,
-    "mini_turbo": 2.5
-  },
-  {
-    "type": "Medium",
-    "name": "Mii Medium",
-    "speed": {
-      "value": 3.75,
-      "water": 3.77,
-      "air": 3.78,
-      "ground": 3.78
-    },
-    "acceleration": 2.5,
-    "weight": 3.75,
-    "handling": {
-      "value": 3.25,
-      "water": 3.25,
-      "air": 3.25,
-      "ground": 3.25
-    },
-    "traction": 3.75,
-    "mini_turbo": 2.5
-  },
-  {
-    "type": "Heavy",
-    "name": "Donkey Kong",
-    "speed": {
-      "value": 4.25,
-      "water": 4.25,
-      "air": 4.25,
-      "ground": 4.25
-    },
-    "acceleration": 2.25,
-    "weight": 4.25,
-    "handling": {
-      "value": 4.25,
-      "water": 2.75,
-      "air": 2.75,
-      "ground": 2.75
-    },
-    "traction": 3.5,
-    "mini_turbo": 2.25
-  },
-  {
-    "type": "Heavy",
-    "name": "Waluigi",
-    "speed": {
-      "value": 4.25,
-      "water": 4.25,
-      "air": 4.25,
-      "ground": 4.25
-    },
-    "acceleration": 2.25,
-    "weight": 4.25,
-    "handling": {
-      "value": 4.25,
-      "water": 2.75,
-      "air": 2.75,
-      "ground": 2.75
-    },
-    "traction": 3.5,
-    "mini_turbo": 2.25
-  },
-  {
-    "type": "Heavy",
-    "name": "Rosalina",
-    "speed": {
-      "value": 4.25,
-      "water": 4.25,
-      "air": 4.25,
-      "ground": 4.25
-    },
-    "acceleration": 2.25,
-    "weight": 4.25,
-    "handling": {
-      "value": 4.25,
-      "water": 2.75,
-      "air": 2.75,
-      "ground": 2.75
-    },
-    "traction": 3.5,
-    "mini_turbo": 2.25
-  },
-  {
-    "type": "Heavy",
-    "name": "Roy Koopa",
-    "speed": {
-      "value": 4.25,
-      "water": 4.25,
-      "air": 4.25,
-      "ground": 4.25
-    },
-    "acceleration": 2.25,
-    "weight": 4.25,
-    "handling": {
-      "value": 4.25,
-      "water": 2.75,
-      "air": 2.75,
-      "ground": 2.75
-    },
-    "traction": 3.5,
-    "mini_turbo": 2.25
-  },
-  {
-    "type": "Heavy",
-    "name": "Metal Mario",
-    "speed": {
-      "value": 4.25,
-      "water": 4.25,
-      "air": 4.25,
-      "ground": 4.25
+      "ground": 7,
+      "water": 7,
+      "air": 7,
+      "antigravity": 7
     },
     "acceleration": 2,
-    "weight": 4.75,
+    "weight": 6,
     "handling": {
-      "value": 4.75,
-      "water": 2.75,
-      "air": 2.75,
-      "ground": 2.75
+      "ground": 5,
+      "water": 5,
+      "air": 5,
+      "antigravity": 5
     },
-    "traction": 3.25,
-    "mini_turbo": 1.75
+    "traction": 1,
+    "mini_turbo": 3,
+    "invincibility": 3,
+    "vehicle_size": "Medium"
   },
   {
-    "type": "Heavy",
-    "name": "Pink Gold Peach",
+    "name": "Mario, Ludwig, Mii (Medium)",
     "speed": {
-      "value": 4.25,
-      "water": 4.25,
-      "air": 4.25,
-      "ground": 4.25
+      "ground": 7,
+      "water": 7,
+      "air": 7,
+      "antigravity": 7
     },
     "acceleration": 2,
-    "weight": 4.75,
+    "weight": 6,
     "handling": {
-      "value": 4.75,
-      "water": 2.75,
-      "air": 2.75,
-      "ground": 2.75
+      "ground": 4,
+      "water": 4,
+      "air": 4,
+      "antigravity": 4
     },
-    "traction": 3.25,
-    "mini_turbo": 1.75
+    "traction": 2,
+    "mini_turbo": 3,
+    "invincibility": 3,
+    "vehicle_size": "Medium"
   },
   {
-    "type": "Heavy",
-    "name": "Wario",
+    "name": "Metal Mario, Gold Mario, Pink Gold Peach",
     "speed": {
-      "value": 4.75,
-      "water": 4.75,
-      "air": 4.75,
-      "ground": 4.75
+      "ground": 8,
+      "water": 8,
+      "air": 8,
+      "antigravity": 8
     },
-    "acceleration": 2,
-    "weight": 4.75,
+    "acceleration": 1,
+    "weight": 10,
     "handling": {
-      "value": 4.75,
-      "water": 2.25,
-      "air": 2.25,
-      "ground": 2.25
+      "ground": 3,
+      "water": 3,
+      "air": 3,
+      "antigravity": 3
     },
-    "traction": 3.25,
-    "mini_turbo": 1.75
+    "traction": 1,
+    "mini_turbo": 1,
+    "invincibility": 3,
+    "vehicle_size": "Medium"
   },
   {
-    "type": "Heavy",
-    "name": "Bowser",
+    "name": "Wiggler",
     "speed": {
-      "value": 4.75,
-      "water": 4.75,
-      "air": 4.75,
-      "ground": 4.75
+      "ground": 9,
+      "water": 9,
+      "air": 9,
+      "antigravity": 9
     },
-    "acceleration": 2,
-    "weight": 4.75,
+    "acceleration": 1,
+    "weight": 8,
     "handling": {
-      "value": 4.75,
-      "water": 2.25,
-      "air": 2.25,
-      "ground": 2.25
+      "ground": 2,
+      "water": 2,
+      "air": 2,
+      "antigravity": 2
     },
-    "traction": 3.25,
-    "mini_turbo": 1.75
+    "traction": 0,
+    "mini_turbo": 1,
+    "invincibility": 4,
+    "vehicle_size": "Medium"
   },
   {
-    "type": "Heavy",
-    "name": "Morton Koopa",
+    "name": "Rosalina, King Boo, Link, Pauline",
     "speed": {
-      "value": 4.75,
-      "water": 4.75,
-      "air": 4.75,
-      "ground": 4.75
+      "ground": 8,
+      "water": 8,
+      "air": 8,
+      "antigravity": 8
     },
-    "acceleration": 2,
-    "weight": 4.75,
+    "acceleration": 1,
+    "weight": 7,
     "handling": {
-      "value": 4.75,
-      "water": 2.25,
-      "air": 2.25,
-      "ground": 2.25
+      "ground": 3,
+      "water": 3,
+      "air": 3,
+      "antigravity": 3
     },
-    "traction": 3.25,
-    "mini_turbo": 1.75
+    "traction": 3,
+    "mini_turbo": 2,
+    "invincibility": 4,
+    "vehicle_size": "Large"
   },
   {
-    "type": "Heavy",
-    "name": "Mii Heavy",
+    "name": "Petey Piranha",
     "speed": {
-      "value": 4.75,
-      "water": 4.75,
-      "air": 4.75,
-      "ground": 4.75
+      "ground": 8,
+      "water": 8,
+      "air": 8,
+      "antigravity": 8
     },
-    "acceleration": 2,
-    "weight": 4.75,
+    "acceleration": 1,
+    "weight": 10,
     "handling": {
-      "value": 4.75,
-      "water": 2.25,
-      "air": 2.25,
-      "ground": 2.25
+      "ground": 3,
+      "water": 3,
+      "air": 3,
+      "antigravity": 3
     },
-    "traction": 3.25,
-    "mini_turbo": 1.75
+    "traction": 1,
+    "mini_turbo": 1,
+    "invincibility": 6,
+    "vehicle_size": "Large"
+  },
+  {
+    "name": "Waluigi, Donkey Kong, Roy",
+    "speed": {
+      "ground": 9,
+      "water": 9,
+      "air": 9,
+      "antigravity": 9
+    },
+    "acceleration": 1,
+    "weight": 8,
+    "handling": {
+      "ground": 2,
+      "water": 2,
+      "air": 2,
+      "antigravity": 2
+    },
+    "traction": 0,
+    "mini_turbo": 1,
+    "invincibility": 4,
+    "vehicle_size": "Large"
+  },
+  {
+    "name": "Wario, Dry Bowser, Funky Kong, Mii (Heavy)",
+    "speed": {
+      "ground": 10,
+      "water": 10,
+      "air": 10,
+      "antigravity": 10
+    },
+    "acceleration": 0,
+    "weight": 9,
+    "handling": {
+      "ground": 1,
+      "water": 1,
+      "air": 1,
+      "antigravity": 1
+    },
+    "traction": 1,
+    "mini_turbo": 0,
+    "invincibility": 5,
+    "vehicle_size": "Large"
+  },
+  {
+    "name": "Bowser, Morton",
+    "speed": {
+      "ground": 10,
+      "water": 10,
+      "air": 10,
+      "antigravity": 10
+    },
+    "acceleration": 0,
+    "weight": 10,
+    "handling": {
+      "ground": 0,
+      "water": 0,
+      "air": 0,
+      "antigravity": 0
+    },
+    "traction": 0,
+    "mini_turbo": 0,
+    "invincibility": 6,
+    "vehicle_size": "Large"
   }
 ]
