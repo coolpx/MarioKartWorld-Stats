@@ -17,7 +17,7 @@
     },
     "traction": 5,
     "mini_turbo": 5,
-    "invincibility": 6,
+    "invincibility": 0,
     "vehicle_size": "Small"
   },
   {
@@ -38,7 +38,7 @@
     },
     "traction": 3,
     "mini_turbo": 5,
-    "invincibility": 6,
+    "invincibility": 0,
     "vehicle_size": "Small"
   },
   {
@@ -59,7 +59,7 @@
     },
     "traction": 4,
     "mini_turbo": 5,
-    "invincibility": 5,
+    "invincibility": 0,
     "vehicle_size": "Small"
   },
   {
@@ -80,7 +80,7 @@
     },
     "traction": 5,
     "mini_turbo": 4,
-    "invincibility": 4,
+    "invincibility": 0,
     "vehicle_size": "Small"
   },
   {
@@ -101,7 +101,7 @@
     },
     "traction": 2,
     "mini_turbo": 4,
-    "invincibility": 3,
+    "invincibility": 0,
     "vehicle_size": "Small"
   },
   {
@@ -122,7 +122,7 @@
     },
     "traction": 4,
     "mini_turbo": 4,
-    "invincibility": 3,
+    "invincibility": 0,
     "vehicle_size": "Small"
   },
   {
@@ -143,7 +143,7 @@
     },
     "traction": 3,
     "mini_turbo": 4,
-    "invincibility": 3,
+    "invincibility": 0,
     "vehicle_size": "Medium"
   },
   {
@@ -164,7 +164,7 @@
     },
     "traction": 3,
     "mini_turbo": 4,
-    "invincibility": 1,
+    "invincibility": 0,
     "vehicle_size": "Medium"
   },
   {
@@ -185,7 +185,7 @@
     },
     "traction": 1,
     "mini_turbo": 4,
-    "invincibility": 1,
+    "invincibility": 0,
     "vehicle_size": "Medium"
   },
   {
@@ -206,7 +206,7 @@
     },
     "traction": 1,
     "mini_turbo": 3,
-    "invincibility": 3,
+    "invincibility": 0,
     "vehicle_size": "Medium"
   },
   {
@@ -227,7 +227,7 @@
     },
     "traction": 2,
     "mini_turbo": 3,
-    "invincibility": 3,
+    "invincibility": 0,
     "vehicle_size": "Medium"
   },
   {
@@ -248,7 +248,7 @@
     },
     "traction": 1,
     "mini_turbo": 1,
-    "invincibility": 3,
+    "invincibility": 0,
     "vehicle_size": "Medium"
   },
   {
@@ -269,7 +269,7 @@
     },
     "traction": 0,
     "mini_turbo": 1,
-    "invincibility": 4,
+    "invincibility": 0,
     "vehicle_size": "Medium"
   },
   {
@@ -290,7 +290,7 @@
     },
     "traction": 3,
     "mini_turbo": 2,
-    "invincibility": 4,
+    "invincibility": 0,
     "vehicle_size": "Large"
   },
   {
@@ -311,7 +311,7 @@
     },
     "traction": 1,
     "mini_turbo": 1,
-    "invincibility": 6,
+    "invincibility": 0,
     "vehicle_size": "Large"
   },
   {
@@ -332,7 +332,7 @@
     },
     "traction": 0,
     "mini_turbo": 1,
-    "invincibility": 4,
+    "invincibility": 0,
     "vehicle_size": "Large"
   },
   {
@@ -353,7 +353,7 @@
     },
     "traction": 1,
     "mini_turbo": 0,
-    "invincibility": 5,
+    "invincibility": 0,
     "vehicle_size": "Large"
   },
   {
@@ -374,7 +374,7 @@
     },
     "traction": 0,
     "mini_turbo": 0,
-    "invincibility": 6,
+    "invincibility": 0,
     "vehicle_size": "Large"
   }
 ]

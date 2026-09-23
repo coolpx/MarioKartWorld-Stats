@@ -57,7 +57,7 @@
     },
     "traction": 0,
     "mini_turbo": 1,
-    "invincibility": 1
+    "invincibility": 0
   },
   {
     "name": "Super Glider, Waddle Wing, Hylian Kite",
@@ -77,6 +77,6 @@
     },
     "traction": 1,
     "mini_turbo": 1,
-    "invincibility": 1
+    "invincibility": 0
   }
 ]

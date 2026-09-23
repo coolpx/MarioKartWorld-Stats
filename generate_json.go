@@ -8,7 +8,7 @@ import (
 	"fmt"
 )
 
-var fields = []string { "name", "speed_ground", "speed_water", "speed_air", "speed_antigravity", "acceleration", "weight", "handling_ground", "handling_water", "handling_air", "handling_antigravity", "traction", "mini_turbo", "invincibility", "trailing"}
+var fields = []string { "name", "speed_ground", "speed_water", "speed_air", "speed_antigravity", "acceleration", "weight", "handling_ground", "handling_water", "handling_air", "handling_antigravity", "traction", "mini_turbo", "trailing"}
 
 // trailing column types (tires and gliders have no trailing column)
 const (
@@ -135,7 +135,7 @@ func readFile(name string, trailing string) {
 
 func main() {
 	readFile("characters", trailingVehicleSize)
-	readFile("bodies", trailingType)
+	readFile("bodies", trailingNone)
 	readFile("tires", trailingNone)
 	readFile("gliders", trailingNone)
 }

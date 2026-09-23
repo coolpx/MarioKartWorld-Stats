@@ -37,7 +37,7 @@
     },
     "traction": 3,
     "mini_turbo": 5,
-    "invincibility": 3
+    "invincibility": 0
   },
   {
     "name": "Cushion",
@@ -57,7 +57,7 @@
     },
     "traction": 6,
     "mini_turbo": 5,
-    "invincibility": 6
+    "invincibility": 0
   },
   {
     "name": "Sponge",
@@ -77,7 +77,7 @@
     },
     "traction": 6,
     "mini_turbo": 5,
-    "invincibility": 4
+    "invincibility": 0
   },
   {
     "name": "GLA Tires",
@@ -97,7 +97,7 @@
     },
     "traction": 5,
     "mini_turbo": 4,
-    "invincibility": 5
+    "invincibility": 0
   },
   {
     "name": "Standard, Blue Standard",
@@ -117,7 +117,7 @@
     },
     "traction": 5,
     "mini_turbo": 4,
-    "invincibility": 4
+    "invincibility": 0
   },
   {
     "name": "Slim, Wood, Crimson Slim",
@@ -137,7 +137,7 @@
     },
     "traction": 1,
     "mini_turbo": 3,
-    "invincibility": 5
+    "invincibility": 0
   },
   {
     "name": "Monster, Hot Monster",
@@ -157,7 +157,7 @@
     },
     "traction": 7,
     "mini_turbo": 3,
-    "invincibility": 6
+    "invincibility": 0
   },
   {
     "name": "Ancient Tires",
@@ -177,7 +177,7 @@
     },
     "traction": 7,
     "mini_turbo": 3,
-    "invincibility": 5
+    "invincibility": 0
   },
   {
     "name": "Off-Road, Retro Off-Road, Triforce Tires",
@@ -197,7 +197,7 @@
     },
     "traction": 6,
     "mini_turbo": 3,
-    "invincibility": 6
+    "invincibility": 0
   },
   {
     "name": "Slick, Cyber Slick",
@@ -217,7 +217,7 @@
     },
     "traction": 0,
     "mini_turbo": 2,
-    "invincibility": 5
+    "invincibility": 0
   },
   {
     "name": "Metal",
@@ -237,7 +237,7 @@
     },
     "traction": 2,
     "mini_turbo": 2,
-    "invincibility": 6
+    "invincibility": 0
   },
   {
     "name": "Gold Tires",
@@ -257,6 +257,6 @@
     },
     "traction": 2,
     "mini_turbo": 2,
-    "invincibility": 5
+    "invincibility": 0
   }
 ]
