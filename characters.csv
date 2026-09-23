@@ -1,19 +1,21 @@
-Character,Speed (Ground),Speed (Water),Speed (Air),Speed (Anti-Gravity),Acceleration,Weight,Handling (Ground),Handling (Water),Handling (Air),Handling (Anti-Gravity),Traction,Mini Turbo,Vehicle Size
-"Baby Peach, Baby Daisy",1,1,1,1,4,0,10,10,10,10,5,5,Small
-"Baby Rosalina, Lemmy",1,1,1,1,5,0,9,9,9,9,3,5,Small
-"Baby Mario, Baby Luigi, Dry Bones, Mii (Light)",2,2,2,2,5,1,8,8,8,8,4,5,Small
-"Koopa Troopa, Lakitu, Bowser Jr.",3,3,3,3,4,2,8,8,8,8,5,4,Small
-"Toadette, Wendy, Isabelle",3,3,3,3,5,2,7,7,7,7,2,4,Small
-"Toad, Shy Guy, Larry",4,4,4,4,4,3,7,7,7,7,4,4,Small
-"Cat Peach, Inkling (Girl), Villager (Female), Diddy Kong",5,5,5,5,4,3,6,6,6,6,3,4,Medium
-"Peach, Daisy, Birdo, Yoshi, Peachette",6,6,6,6,3,4,5,5,5,5,3,4,Medium
-"Tanooki Mario, Inkling (Boy), Villager (Male)",6,6,6,6,3,5,5,5,5,5,1,4,Medium
-"Luigi, Iggy, Kamek",7,7,7,7,2,6,5,5,5,5,1,3,Medium
-"Mario, Ludwig, Mii (Medium)",7,7,7,7,2,6,4,4,4,4,2,3,Medium
-"Metal Mario, Gold Mario, Pink Gold Peach",8,8,8,8,1,10,3,3,3,3,1,1,Medium
-Wiggler,9,9,9,9,1,8,2,2,2,2,0,1,Medium
-"Rosalina, King Boo, Link, Pauline",8,8,8,8,1,7,3,3,3,3,3,2,Large
-Petey Piranha,8,8,8,8,1,10,3,3,3,3,1,1,Large
-"Waluigi, Donkey Kong, Roy",9,9,9,9,1,8,2,2,2,2,0,1,Large
-"Wario, Dry Bowser, Funky Kong, Mii (Heavy)",10,10,10,10,0,9,1,1,1,1,1,0,Large
-"Bowser, Morton",10,10,10,10,0,10,0,0,0,0,0,0,Large
+Drivers,SpeedPaved,SpeedOffroad,SpeedWater,Acceleration,MiniTurbo,Weight,HandlingPaved,HandlingOffroad,HandlingWater
+Baby Peach • Baby Daisy • Para-Biddybud • Swoop,7,7,7,14,12,6,13,13,13
+Baby Mario • Goomba • Spike,8,7,7,13,11,7,14,12,12
+Baby Luigi • Dry Bones • Peepa,7,8,7,13,11,7,12,14,12
+Baby Rosalina • Sidestepper • Fish Bone,7,7,8,13,11,7,12,12,14
+Toadette • Nabbit,9,8,8,12,11,8,13,11,11
+Toad • Shy Guy • Stingby,8,9,8,12,11,8,11,13,11
+Koopa Troopa • Lakitu • Cheep Cheep,8,8,9,12,11,8,11,11,13
+Peach • Daisy • Coin Coffer,10,9,9,11,10,9,12,10,10
+Yoshi • Monty Mole,9,10,9,11,10,9,10,12,10
+Bowser Jr. • Dolphin,9,9,10,11,10,9,10,10,12
+Mario • Rocky Wrench,11,10,10,10,9,10,11,9,9
+Luigi • Hammer Bro • Pokey,10,11,10,10,9,10,9,11,9
+Birdo • Penguin,10,10,11,10,9,10,9,9,11
+Pauline • Piranha Plant • Snowman,12,11,11,9,8,11,10,8,8
+King Boo • Conkdor,11,12,11,9,8,11,8,10,8
+Rosalina • Cataquack,11,11,12,9,8,11,8,8,10
+Wario • Wiggler,13,12,12,8,8,12,9,7,7
+Donkey Kong • Cow • Chargin' Chuck,12,13,12,8,8,12,7,9,7
+Waluigi • Pianta,12,12,13,8,8,12,7,7,9
+Bowser,13,13,13,7,8,13,7,7,7

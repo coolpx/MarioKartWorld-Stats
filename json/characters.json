@@ -1,380 +1,362 @@
 [
   {
-    "name": "Baby Peach, Baby Daisy",
+    "name": "Baby Peach • Baby Daisy • Para-Biddybud • Swoop",
     "speed": {
-      "ground": 1,
-      "water": 1,
-      "air": 1,
-      "antigravity": 1
+      "paved": 7,
+      "offroad": 7,
+      "water": 7
     },
-    "acceleration": 4,
-    "weight": 0,
-    "handling": {
-      "ground": 10,
-      "water": 10,
-      "air": 10,
-      "antigravity": 10
-    },
-    "traction": 5,
-    "mini_turbo": 5,
-    "invincibility": 0,
-    "vehicle_size": "Small"
-  },
-  {
-    "name": "Baby Rosalina, Lemmy",
-    "speed": {
-      "ground": 1,
-      "water": 1,
-      "air": 1,
-      "antigravity": 1
-    },
-    "acceleration": 5,
-    "weight": 0,
-    "handling": {
-      "ground": 9,
-      "water": 9,
-      "air": 9,
-      "antigravity": 9
-    },
-    "traction": 3,
-    "mini_turbo": 5,
-    "invincibility": 0,
-    "vehicle_size": "Small"
-  },
-  {
-    "name": "Baby Mario, Baby Luigi, Dry Bones, Mii (Light)",
-    "speed": {
-      "ground": 2,
-      "water": 2,
-      "air": 2,
-      "antigravity": 2
-    },
-    "acceleration": 5,
-    "weight": 1,
-    "handling": {
-      "ground": 8,
-      "water": 8,
-      "air": 8,
-      "antigravity": 8
-    },
-    "traction": 4,
-    "mini_turbo": 5,
-    "invincibility": 0,
-    "vehicle_size": "Small"
-  },
-  {
-    "name": "Koopa Troopa, Lakitu, Bowser Jr.",
-    "speed": {
-      "ground": 3,
-      "water": 3,
-      "air": 3,
-      "antigravity": 3
-    },
-    "acceleration": 4,
-    "weight": 2,
-    "handling": {
-      "ground": 8,
-      "water": 8,
-      "air": 8,
-      "antigravity": 8
-    },
-    "traction": 5,
-    "mini_turbo": 4,
-    "invincibility": 0,
-    "vehicle_size": "Small"
-  },
-  {
-    "name": "Toadette, Wendy, Isabelle",
-    "speed": {
-      "ground": 3,
-      "water": 3,
-      "air": 3,
-      "antigravity": 3
-    },
-    "acceleration": 5,
-    "weight": 2,
-    "handling": {
-      "ground": 7,
-      "water": 7,
-      "air": 7,
-      "antigravity": 7
-    },
-    "traction": 2,
-    "mini_turbo": 4,
-    "invincibility": 0,
-    "vehicle_size": "Small"
-  },
-  {
-    "name": "Toad, Shy Guy, Larry",
-    "speed": {
-      "ground": 4,
-      "water": 4,
-      "air": 4,
-      "antigravity": 4
-    },
-    "acceleration": 4,
-    "weight": 3,
-    "handling": {
-      "ground": 7,
-      "water": 7,
-      "air": 7,
-      "antigravity": 7
-    },
-    "traction": 4,
-    "mini_turbo": 4,
-    "invincibility": 0,
-    "vehicle_size": "Small"
-  },
-  {
-    "name": "Cat Peach, Inkling (Girl), Villager (Female), Diddy Kong",
-    "speed": {
-      "ground": 5,
-      "water": 5,
-      "air": 5,
-      "antigravity": 5
-    },
-    "acceleration": 4,
-    "weight": 3,
-    "handling": {
-      "ground": 6,
-      "water": 6,
-      "air": 6,
-      "antigravity": 6
-    },
-    "traction": 3,
-    "mini_turbo": 4,
-    "invincibility": 0,
-    "vehicle_size": "Medium"
-  },
-  {
-    "name": "Peach, Daisy, Birdo, Yoshi, Peachette",
-    "speed": {
-      "ground": 6,
-      "water": 6,
-      "air": 6,
-      "antigravity": 6
-    },
-    "acceleration": 3,
-    "weight": 4,
-    "handling": {
-      "ground": 5,
-      "water": 5,
-      "air": 5,
-      "antigravity": 5
-    },
-    "traction": 3,
-    "mini_turbo": 4,
-    "invincibility": 0,
-    "vehicle_size": "Medium"
-  },
-  {
-    "name": "Tanooki Mario, Inkling (Boy), Villager (Male)",
-    "speed": {
-      "ground": 6,
-      "water": 6,
-      "air": 6,
-      "antigravity": 6
-    },
-    "acceleration": 3,
-    "weight": 5,
-    "handling": {
-      "ground": 5,
-      "water": 5,
-      "air": 5,
-      "antigravity": 5
-    },
-    "traction": 1,
-    "mini_turbo": 4,
-    "invincibility": 0,
-    "vehicle_size": "Medium"
-  },
-  {
-    "name": "Luigi, Iggy, Kamek",
-    "speed": {
-      "ground": 7,
-      "water": 7,
-      "air": 7,
-      "antigravity": 7
-    },
-    "acceleration": 2,
+    "acceleration": 14,
     "weight": 6,
     "handling": {
-      "ground": 5,
-      "water": 5,
-      "air": 5,
-      "antigravity": 5
-    },
-    "traction": 1,
-    "mini_turbo": 3,
-    "invincibility": 0,
-    "vehicle_size": "Medium"
-  },
-  {
-    "name": "Mario, Ludwig, Mii (Medium)",
-    "speed": {
-      "ground": 7,
-      "water": 7,
-      "air": 7,
-      "antigravity": 7
-    },
-    "acceleration": 2,
-    "weight": 6,
-    "handling": {
-      "ground": 4,
-      "water": 4,
-      "air": 4,
-      "antigravity": 4
-    },
-    "traction": 2,
-    "mini_turbo": 3,
-    "invincibility": 0,
-    "vehicle_size": "Medium"
-  },
-  {
-    "name": "Metal Mario, Gold Mario, Pink Gold Peach",
-    "speed": {
-      "ground": 8,
-      "water": 8,
-      "air": 8,
-      "antigravity": 8
-    },
-    "acceleration": 1,
-    "weight": 10,
-    "handling": {
-      "ground": 3,
-      "water": 3,
-      "air": 3,
-      "antigravity": 3
-    },
-    "traction": 1,
-    "mini_turbo": 1,
-    "invincibility": 0,
-    "vehicle_size": "Medium"
-  },
-  {
-    "name": "Wiggler",
-    "speed": {
-      "ground": 9,
-      "water": 9,
-      "air": 9,
-      "antigravity": 9
-    },
-    "acceleration": 1,
-    "weight": 8,
-    "handling": {
-      "ground": 2,
-      "water": 2,
-      "air": 2,
-      "antigravity": 2
+      "paved": 13,
+      "offroad": 13,
+      "water": 13
     },
     "traction": 0,
-    "mini_turbo": 1,
-    "invincibility": 0,
-    "vehicle_size": "Medium"
+    "mini_turbo": 12,
+    "invincibility": 0
   },
   {
-    "name": "Rosalina, King Boo, Link, Pauline",
+    "name": "Baby Mario • Goomba • Spike",
     "speed": {
-      "ground": 8,
-      "water": 8,
-      "air": 8,
-      "antigravity": 8
+      "paved": 8,
+      "offroad": 7,
+      "water": 7
     },
-    "acceleration": 1,
+    "acceleration": 13,
     "weight": 7,
     "handling": {
-      "ground": 3,
-      "water": 3,
-      "air": 3,
-      "antigravity": 3
+      "paved": 14,
+      "offroad": 12,
+      "water": 12
     },
-    "traction": 3,
-    "mini_turbo": 2,
-    "invincibility": 0,
-    "vehicle_size": "Large"
+    "traction": 0,
+    "mini_turbo": 11,
+    "invincibility": 0
   },
   {
-    "name": "Petey Piranha",
+    "name": "Baby Luigi • Dry Bones • Peepa",
     "speed": {
-      "ground": 8,
-      "water": 8,
-      "air": 8,
-      "antigravity": 8
+      "paved": 7,
+      "offroad": 8,
+      "water": 7
     },
-    "acceleration": 1,
-    "weight": 10,
+    "acceleration": 13,
+    "weight": 7,
     "handling": {
-      "ground": 3,
-      "water": 3,
-      "air": 3,
-      "antigravity": 3
+      "paved": 12,
+      "offroad": 14,
+      "water": 12
     },
-    "traction": 1,
-    "mini_turbo": 1,
-    "invincibility": 0,
-    "vehicle_size": "Large"
+    "traction": 0,
+    "mini_turbo": 11,
+    "invincibility": 0
   },
   {
-    "name": "Waluigi, Donkey Kong, Roy",
+    "name": "Baby Rosalina • Sidestepper • Fish Bone",
     "speed": {
-      "ground": 9,
-      "water": 9,
-      "air": 9,
-      "antigravity": 9
+      "paved": 7,
+      "offroad": 7,
+      "water": 8
     },
-    "acceleration": 1,
+    "acceleration": 13,
+    "weight": 7,
+    "handling": {
+      "paved": 12,
+      "offroad": 12,
+      "water": 14
+    },
+    "traction": 0,
+    "mini_turbo": 11,
+    "invincibility": 0
+  },
+  {
+    "name": "Toadette • Nabbit",
+    "speed": {
+      "paved": 9,
+      "offroad": 8,
+      "water": 8
+    },
+    "acceleration": 12,
     "weight": 8,
     "handling": {
-      "ground": 2,
-      "water": 2,
-      "air": 2,
-      "antigravity": 2
+      "paved": 13,
+      "offroad": 11,
+      "water": 11
     },
     "traction": 0,
-    "mini_turbo": 1,
-    "invincibility": 0,
-    "vehicle_size": "Large"
+    "mini_turbo": 11,
+    "invincibility": 0
   },
   {
-    "name": "Wario, Dry Bowser, Funky Kong, Mii (Heavy)",
+    "name": "Toad • Shy Guy • Stingby",
     "speed": {
-      "ground": 10,
-      "water": 10,
-      "air": 10,
-      "antigravity": 10
+      "paved": 8,
+      "offroad": 9,
+      "water": 8
     },
-    "acceleration": 0,
+    "acceleration": 12,
+    "weight": 8,
+    "handling": {
+      "paved": 11,
+      "offroad": 13,
+      "water": 11
+    },
+    "traction": 0,
+    "mini_turbo": 11,
+    "invincibility": 0
+  },
+  {
+    "name": "Koopa Troopa • Lakitu • Cheep Cheep",
+    "speed": {
+      "paved": 8,
+      "offroad": 8,
+      "water": 9
+    },
+    "acceleration": 12,
+    "weight": 8,
+    "handling": {
+      "paved": 11,
+      "offroad": 11,
+      "water": 13
+    },
+    "traction": 0,
+    "mini_turbo": 11,
+    "invincibility": 0
+  },
+  {
+    "name": "Peach • Daisy • Coin Coffer",
+    "speed": {
+      "paved": 10,
+      "offroad": 9,
+      "water": 9
+    },
+    "acceleration": 11,
     "weight": 9,
     "handling": {
-      "ground": 1,
-      "water": 1,
-      "air": 1,
-      "antigravity": 1
-    },
-    "traction": 1,
-    "mini_turbo": 0,
-    "invincibility": 0,
-    "vehicle_size": "Large"
-  },
-  {
-    "name": "Bowser, Morton",
-    "speed": {
-      "ground": 10,
-      "water": 10,
-      "air": 10,
-      "antigravity": 10
-    },
-    "acceleration": 0,
-    "weight": 10,
-    "handling": {
-      "ground": 0,
-      "water": 0,
-      "air": 0,
-      "antigravity": 0
+      "paved": 12,
+      "offroad": 10,
+      "water": 10
     },
     "traction": 0,
-    "mini_turbo": 0,
-    "invincibility": 0,
-    "vehicle_size": "Large"
+    "mini_turbo": 10,
+    "invincibility": 0
+  },
+  {
+    "name": "Yoshi • Monty Mole",
+    "speed": {
+      "paved": 9,
+      "offroad": 10,
+      "water": 9
+    },
+    "acceleration": 11,
+    "weight": 9,
+    "handling": {
+      "paved": 10,
+      "offroad": 12,
+      "water": 10
+    },
+    "traction": 0,
+    "mini_turbo": 10,
+    "invincibility": 0
+  },
+  {
+    "name": "Bowser Jr. • Dolphin",
+    "speed": {
+      "paved": 9,
+      "offroad": 9,
+      "water": 10
+    },
+    "acceleration": 11,
+    "weight": 9,
+    "handling": {
+      "paved": 10,
+      "offroad": 10,
+      "water": 12
+    },
+    "traction": 0,
+    "mini_turbo": 10,
+    "invincibility": 0
+  },
+  {
+    "name": "Mario • Rocky Wrench",
+    "speed": {
+      "paved": 11,
+      "offroad": 10,
+      "water": 10
+    },
+    "acceleration": 10,
+    "weight": 10,
+    "handling": {
+      "paved": 11,
+      "offroad": 9,
+      "water": 9
+    },
+    "traction": 0,
+    "mini_turbo": 9,
+    "invincibility": 0
+  },
+  {
+    "name": "Luigi • Hammer Bro • Pokey",
+    "speed": {
+      "paved": 10,
+      "offroad": 11,
+      "water": 10
+    },
+    "acceleration": 10,
+    "weight": 10,
+    "handling": {
+      "paved": 9,
+      "offroad": 11,
+      "water": 9
+    },
+    "traction": 0,
+    "mini_turbo": 9,
+    "invincibility": 0
+  },
+  {
+    "name": "Birdo • Penguin",
+    "speed": {
+      "paved": 10,
+      "offroad": 10,
+      "water": 11
+    },
+    "acceleration": 10,
+    "weight": 10,
+    "handling": {
+      "paved": 9,
+      "offroad": 9,
+      "water": 11
+    },
+    "traction": 0,
+    "mini_turbo": 9,
+    "invincibility": 0
+  },
+  {
+    "name": "Pauline • Piranha Plant • Snowman",
+    "speed": {
+      "paved": 12,
+      "offroad": 11,
+      "water": 11
+    },
+    "acceleration": 9,
+    "weight": 11,
+    "handling": {
+      "paved": 10,
+      "offroad": 8,
+      "water": 8
+    },
+    "traction": 0,
+    "mini_turbo": 8,
+    "invincibility": 0
+  },
+  {
+    "name": "King Boo • Conkdor",
+    "speed": {
+      "paved": 11,
+      "offroad": 12,
+      "water": 11
+    },
+    "acceleration": 9,
+    "weight": 11,
+    "handling": {
+      "paved": 8,
+      "offroad": 10,
+      "water": 8
+    },
+    "traction": 0,
+    "mini_turbo": 8,
+    "invincibility": 0
+  },
+  {
+    "name": "Rosalina • Cataquack",
+    "speed": {
+      "paved": 11,
+      "offroad": 11,
+      "water": 12
+    },
+    "acceleration": 9,
+    "weight": 11,
+    "handling": {
+      "paved": 8,
+      "offroad": 8,
+      "water": 10
+    },
+    "traction": 0,
+    "mini_turbo": 8,
+    "invincibility": 0
+  },
+  {
+    "name": "Wario • Wiggler",
+    "speed": {
+      "paved": 13,
+      "offroad": 12,
+      "water": 12
+    },
+    "acceleration": 8,
+    "weight": 12,
+    "handling": {
+      "paved": 9,
+      "offroad": 7,
+      "water": 7
+    },
+    "traction": 0,
+    "mini_turbo": 8,
+    "invincibility": 0
+  },
+  {
+    "name": "Donkey Kong • Cow • Chargin' Chuck",
+    "speed": {
+      "paved": 12,
+      "offroad": 13,
+      "water": 12
+    },
+    "acceleration": 8,
+    "weight": 12,
+    "handling": {
+      "paved": 7,
+      "offroad": 9,
+      "water": 7
+    },
+    "traction": 0,
+    "mini_turbo": 8,
+    "invincibility": 0
+  },
+  {
+    "name": "Waluigi • Pianta",
+    "speed": {
+      "paved": 12,
+      "offroad": 12,
+      "water": 13
+    },
+    "acceleration": 8,
+    "weight": 12,
+    "handling": {
+      "paved": 7,
+      "offroad": 7,
+      "water": 9
+    },
+    "traction": 0,
+    "mini_turbo": 8,
+    "invincibility": 0
+  },
+  {
+    "name": "Bowser",
+    "speed": {
+      "paved": 13,
+      "offroad": 13,
+      "water": 13
+    },
+    "acceleration": 7,
+    "weight": 13,
+    "handling": {
+      "paved": 7,
+      "offroad": 7,
+      "water": 7
+    },
+    "traction": 0,
+    "mini_turbo": 8,
+    "invincibility": 0
   }
 ]

@@ -1,4 +1,4 @@
-# Mario Kart 8 Deluxe – Statistics
+# Mario Kart World – Statistics
 
 ## Source
 

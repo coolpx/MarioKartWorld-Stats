@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Standard Bike • Cute Scoot • Tune Thumper",
+    "speed": {
+      "paved": -4,
+      "offroad": -4,
+      "water": -4
+    },
+    "acceleration": 5,
+    "weight": -3,
+    "handling": {
+      "paved": 2,
+      "offroad": 2,
+      "water": 2
+    },
+    "traction": 0,
+    "mini_turbo": 5,
+    "invincibility": 0
+  },
+  {
+    "name": "Rally Bike • Hyper Pipe",
+    "speed": {
+      "paved": -5,
+      "offroad": 0,
+      "water": -5
+    },
+    "acceleration": 4,
+    "weight": -3,
+    "handling": {
+      "paved": 1,
+      "offroad": 5,
+      "water": 1
+    },
+    "traction": 0,
+    "mini_turbo": 4,
+    "invincibility": 0
+  },
+  {
+    "name": "Fin Twin • Dolphin Dasher",
+    "speed": {
+      "paved": -5,
+      "offroad": -5,
+      "water": 0
+    },
+    "acceleration": 4,
+    "weight": -3,
+    "handling": {
+      "paved": 1,
+      "offroad": 1,
+      "water": 5
+    },
+    "traction": 0,
+    "mini_turbo": 4,
+    "invincibility": 0
+  },
+  {
+    "name": "Pipe Frame",
+    "speed": {
+      "paved": -3,
+      "offroad": -3,
+      "water": -3
+    },
+    "acceleration": 4,
+    "weight": -2,
+    "handling": {
+      "paved": 1,
+      "offroad": 1,
+      "water": 1
+    },
+    "traction": 0,
+    "mini_turbo": 4,
+    "invincibility": 0
+  },
+  {
+    "name": "Mach Rocket • R.O.B. H.O.G.",
+    "speed": {
+      "paved": 1,
+      "offroad": -4,
+      "water": -4
+    },
+    "acceleration": 3,
+    "weight": -3,
+    "handling": {
+      "paved": 5,
+      "offroad": 1,
+      "water": 1
+    },
+    "traction": 0,
+    "mini_turbo": 3,
+    "invincibility": 0
+  },
+  {
+    "name": "Biddybuggy",
+    "speed": {
+      "paved": -4,
+      "offroad": 1,
+      "water": -4
+    },
+    "acceleration": 3,
+    "weight": -2,
+    "handling": {
+      "paved": 0,
+      "offroad": 4,
+      "water": 0
+    },
+    "traction": 0,
+    "mini_turbo": 3,
+    "invincibility": 0
+  },
+  {
+    "name": "Baby Blooper",
+    "speed": {
+      "paved": 2,
+      "offroad": -3,
+      "water": -3
+    },
+    "acceleration": 2,
+    "weight": -2,
+    "handling": {
+      "paved": 4,
+      "offroad": 0,
+      "water": 0
+    },
+    "traction": 0,
+    "mini_turbo": 2,
+    "invincibility": 0
+  },
+  {
+    "name": "Loco Moto",
+    "speed": {
+      "paved": -1,
+      "offroad": -1,
+      "water": -1
+    },
+    "acceleration": 2,
+    "weight": -2,
+    "handling": {
+      "paved": 1,
+      "offroad": 1,
+      "water": 1
+    },
+    "traction": 0,
+    "mini_turbo": 2,
+    "invincibility": 0
+  },
+  {
+    "name": "Blastronaut III",
+    "speed": {
+      "paved": 0,
+      "offroad": 0,
+      "water": 0
+    },
+    "acceleration": 2,
+    "weight": 0,
+    "handling": {
+      "paved": -2,
+      "offroad": -2,
+      "water": -2
+    },
+    "traction": 0,
+    "mini_turbo": 2,
+    "invincibility": 0
+  },
+  {
+    "name": "Standard Kart • Plushbuggy",
+    "speed": {
+      "paved": 0,
+      "offroad": 0,
+      "water": 0
+    },
+    "acceleration": 1,
+    "weight": -1,
+    "handling": {
+      "paved": 0,
+      "offroad": 0,
+      "water": 0
+    },
+    "traction": 0,
+    "mini_turbo": 1,
+    "invincibility": 0
+  },
+  {
+    "name": "Funky Dorrie",
+    "speed": {
+      "paved": -1,
+      "offroad": -1,
+      "water": 3
+    },
+    "acceleration": 1,
+    "weight": 1,
+    "handling": {
+      "paved": -4,
+      "offroad": -4,
+      "water": 1
+    },
+    "traction": 0,
+    "mini_turbo": 1,
+    "invincibility": 0
+  },
+  {
+    "name": "Hot Rod • Roadster Royale • B Dasher • Bumble V",
+    "speed": {
+      "paved": 3,
+      "offroad": -1,
+      "water": -1
+    },
+    "acceleration": 0,
+    "weight": 0,
+    "handling": {
+      "paved": 3,
+      "offroad": -2,
+      "water": -2
+    },
+    "traction": 0,
+    "mini_turbo": 0,
+    "invincibility": 0
+  },
+  {
+    "name": "Rally Kart • Zoom Buggy",
+    "speed": {
+      "paved": -1,
+      "offroad": 3,
+      "water": -1
+    },
+    "acceleration": 0,
+    "weight": 0,
+    "handling": {
+      "paved": -2,
+      "offroad": 3,
+      "water": -2
+    },
+    "traction": 0,
+    "mini_turbo": 0,
+    "invincibility": 0
+  },
+  {
+    "name": "Ribbit Revster • Carpet Flyer • Cloud 9",
+    "speed": {
+      "paved": -1,
+      "offroad": -1,
+      "water": 3
+    },
+    "acceleration": 0,
+    "weight": 0,
+    "handling": {
+      "paved": -2,
+      "offroad": -2,
+      "water": 3
+    },
+    "traction": 0,
+    "mini_turbo": 0,
+    "invincibility": 0
+  },
+  {
+    "name": "Dread Sled",
+    "speed": {
+      "paved": -2,
+      "offroad": 4,
+      "water": 0
+    },
+    "acceleration": -1,
+    "weight": 0,
+    "handling": {
+      "paved": -2,
+      "offroad": 4,
+      "water": -1
+    },
+    "traction": 0,
+    "mini_turbo": -1,
+    "invincibility": 0
+  },
+  {
+    "name": "W-Twin Chopper",
+    "speed": {
+      "paved": 2,
+      "offroad": 2,
+      "water": 2
+    },
+    "acceleration": -1,
+    "weight": -1,
+    "handling": {
+      "paved": 0,
+      "offroad": 0,
+      "water": 0
+    },
+    "traction": 0,
+    "mini_turbo": -1,
+    "invincibility": 0
+  },
+  {
+    "name": "Junkyard Hog",
+    "speed": {
+      "paved": 3,
+      "offroad": 3,
+      "water": 3
+    },
+    "acceleration": -1,
+    "weight": 1,
+    "handling": {
+      "paved": -3,
+      "offroad": -3,
+      "water": -3
+    },
+    "traction": 0,
+    "mini_turbo": -1,
+    "invincibility": 0
+  },
+  {
+    "name": "Rallygator",
+    "speed": {
+      "paved": 4,
+      "offroad": 1,
+      "water": 1
+    },
+    "acceleration": -1,
+    "weight": 3,
+    "handling": {
+      "paved": 0,
+      "offroad": -6,
+      "water": -6
+    },
+    "traction": 0,
+    "mini_turbo": -1,
+    "invincibility": 0
+  },
+  {
+    "name": "Reel Racer",
+    "speed": {
+      "paved": 3,
+      "offroad": 3,
+      "water": 3
+    },
+    "acceleration": -2,
+    "weight": 0,
+    "handling": {
+      "paved": -1,
+      "offroad": -1,
+      "water": -1
+    },
+    "traction": 0,
+    "mini_turbo": -2,
+    "invincibility": 0
+  },
+  {
+    "name": "Big Horn • Billdozer",
+    "speed": {
+      "paved": 4,
+      "offroad": 1,
+      "water": 1
+    },
+    "acceleration": -2,
+    "weight": 2,
+    "handling": {
+      "paved": 2,
+      "offroad": -4,
+      "water": -4
+    },
+    "traction": 0,
+    "mini_turbo": -2,
+    "invincibility": 0
+  },
+  {
+    "name": "Lobster Roller",
+    "speed": {
+      "paved": 2,
+      "offroad": 2,
+      "water": 5
+    },
+    "acceleration": -2,
+    "weight": 3,
+    "handling": {
+      "paved": -6,
+      "offroad": -6,
+      "water": 0
+    },
+    "traction": 0,
+    "mini_turbo": -2,
+    "invincibility": 0
+  },
+  {
+    "name": "Chargin' Truck • Bowser Bruiser • Tiny Titan • Li'l Dumpy",
+    "speed": {
+      "paved": 2,
+      "offroad": 5,
+      "water": 2
+    },
+    "acceleration": -3,
+    "weight": 2,
+    "handling": {
+      "paved": -4,
+      "offroad": 2,
+      "water": -4
+    },
+    "traction": 0,
+    "mini_turbo": -3,
+    "invincibility": 0
+  },
+  {
+    "name": "Mecha Trike",
+    "speed": {
+      "paved": 2,
+      "offroad": 2,
+      "water": 5
+    },
+    "acceleration": -3,
+    "weight": 2,
+    "handling": {
+      "paved": -4,
+      "offroad": -4,
+      "water": 2
+    },
+    "traction": 0,
+    "mini_turbo": -3,
+    "invincibility": 0
+  },
+  {
+    "name": "Stellar Sled",
+    "speed": {
+      "paved": 1,
+      "offroad": 3,
+      "water": 6
+    },
+    "acceleration": -4,
+    "weight": 2,
+    "handling": {
+      "paved": -4,
+      "offroad": -3,
+      "water": 3
+    },
+    "traction": 0,
+    "mini_turbo": -4,
+    "invincibility": 0
+  }
+]
