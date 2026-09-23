@@ -32,9 +32,6 @@ type Record struct {
 	Handling Handling `json:"handling"`
 	Traction float64 `json:"traction"`
 	MiniTurbo float64 `json:"mini_turbo"`
-	Invincibility float64 `json:"invincibility"`
-	Type string `json:"type,omitempty"`
-	VehicleSize string `json:"vehicle_size,omitempty"`
 }
 
 func fieldIndex(field string) (int) {
@@ -92,7 +89,6 @@ func generateFile(input string, output string) error {
 		outrecord.Handling = parseHandling(record[fieldIndex("handling_paved"):])
 		outrecord.Traction = parseFloat64(record[fieldIndex("traction")])
 		outrecord.MiniTurbo = parseFloat64(record[fieldIndex("mini_turbo")])
-		outrecord.Invincibility = parseFloat64(record[fieldIndex("invincibility")])
 		
 		outrecords[idx] = outrecord
 	}

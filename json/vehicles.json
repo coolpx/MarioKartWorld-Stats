@@ -14,8 +14,7 @@
       "water": 2
     },
     "traction": 0,
-    "mini_turbo": 5,
-    "invincibility": 0
+    "mini_turbo": 5
   },
   {
     "name": "Rally Bike • Hyper Pipe",
@@ -32,8 +31,7 @@
       "water": 1
     },
     "traction": 0,
-    "mini_turbo": 4,
-    "invincibility": 0
+    "mini_turbo": 4
   },
   {
     "name": "Fin Twin • Dolphin Dasher",
@@ -50,8 +48,7 @@
       "water": 5
     },
     "traction": 0,
-    "mini_turbo": 4,
-    "invincibility": 0
+    "mini_turbo": 4
   },
   {
     "name": "Pipe Frame",
@@ -68,8 +65,7 @@
       "water": 1
     },
     "traction": 0,
-    "mini_turbo": 4,
-    "invincibility": 0
+    "mini_turbo": 4
   },
   {
     "name": "Mach Rocket • R.O.B. H.O.G.",
@@ -86,8 +82,7 @@
       "water": 1
     },
     "traction": 0,
-    "mini_turbo": 3,
-    "invincibility": 0
+    "mini_turbo": 3
   },
   {
     "name": "Biddybuggy",
@@ -104,8 +99,7 @@
       "water": 0
     },
     "traction": 0,
-    "mini_turbo": 3,
-    "invincibility": 0
+    "mini_turbo": 3
   },
   {
     "name": "Baby Blooper",
@@ -122,8 +116,7 @@
       "water": 0
     },
     "traction": 0,
-    "mini_turbo": 2,
-    "invincibility": 0
+    "mini_turbo": 2
   },
   {
     "name": "Loco Moto",
@@ -140,8 +133,7 @@
       "water": 1
     },
     "traction": 0,
-    "mini_turbo": 2,
-    "invincibility": 0
+    "mini_turbo": 2
   },
   {
     "name": "Blastronaut III",
@@ -158,8 +150,7 @@
       "water": -2
     },
     "traction": 0,
-    "mini_turbo": 2,
-    "invincibility": 0
+    "mini_turbo": 2
   },
   {
     "name": "Standard Kart • Plushbuggy",
@@ -176,8 +167,7 @@
       "water": 0
     },
     "traction": 0,
-    "mini_turbo": 1,
-    "invincibility": 0
+    "mini_turbo": 1
   },
   {
     "name": "Funky Dorrie",
@@ -194,8 +184,7 @@
       "water": 1
     },
     "traction": 0,
-    "mini_turbo": 1,
-    "invincibility": 0
+    "mini_turbo": 1
   },
   {
     "name": "Hot Rod • Roadster Royale • B Dasher • Bumble V",
@@ -212,8 +201,7 @@
       "water": -2
     },
     "traction": 0,
-    "mini_turbo": 0,
-    "invincibility": 0
+    "mini_turbo": 0
   },
   {
     "name": "Rally Kart • Zoom Buggy",
@@ -230,8 +218,7 @@
       "water": -2
     },
     "traction": 0,
-    "mini_turbo": 0,
-    "invincibility": 0
+    "mini_turbo": 0
   },
   {
     "name": "Ribbit Revster • Carpet Flyer • Cloud 9",
@@ -248,8 +235,7 @@
       "water": 3
     },
     "traction": 0,
-    "mini_turbo": 0,
-    "invincibility": 0
+    "mini_turbo": 0
   },
   {
     "name": "Dread Sled",
@@ -266,8 +252,7 @@
       "water": -1
     },
     "traction": 0,
-    "mini_turbo": -1,
-    "invincibility": 0
+    "mini_turbo": -1
   },
   {
     "name": "W-Twin Chopper",
@@ -284,8 +269,7 @@
       "water": 0
     },
     "traction": 0,
-    "mini_turbo": -1,
-    "invincibility": 0
+    "mini_turbo": -1
   },
   {
     "name": "Junkyard Hog",
@@ -302,8 +286,7 @@
       "water": -3
     },
     "traction": 0,
-    "mini_turbo": -1,
-    "invincibility": 0
+    "mini_turbo": -1
   },
   {
     "name": "Rallygator",
@@ -320,8 +303,7 @@
       "water": -6
     },
     "traction": 0,
-    "mini_turbo": -1,
-    "invincibility": 0
+    "mini_turbo": -1
   },
   {
     "name": "Reel Racer",
@@ -338,8 +320,7 @@
       "water": -1
     },
     "traction": 0,
-    "mini_turbo": -2,
-    "invincibility": 0
+    "mini_turbo": -2
   },
   {
     "name": "Big Horn • Billdozer",
@@ -356,8 +337,7 @@
       "water": -4
     },
     "traction": 0,
-    "mini_turbo": -2,
-    "invincibility": 0
+    "mini_turbo": -2
   },
   {
     "name": "Lobster Roller",
@@ -374,8 +354,7 @@
       "water": 0
     },
     "traction": 0,
-    "mini_turbo": -2,
-    "invincibility": 0
+    "mini_turbo": -2
   },
   {
     "name": "Chargin' Truck • Bowser Bruiser • Tiny Titan • Li'l Dumpy",
@@ -392,8 +371,7 @@
       "water": -4
     },
     "traction": 0,
-    "mini_turbo": -3,
-    "invincibility": 0
+    "mini_turbo": -3
   },
   {
     "name": "Mecha Trike",
@@ -410,8 +388,7 @@
       "water": 2
     },
     "traction": 0,
-    "mini_turbo": -3,
-    "invincibility": 0
+    "mini_turbo": -3
   },
   {
     "name": "Stellar Sled",
@@ -428,7 +405,6 @@
       "water": 3
     },
     "traction": 0,
-    "mini_turbo": -4,
-    "invincibility": 0
+    "mini_turbo": -4
   }
 ]

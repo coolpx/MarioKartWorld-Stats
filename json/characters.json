@@ -14,8 +14,7 @@
       "water": 13
     },
     "traction": 0,
-    "mini_turbo": 12,
-    "invincibility": 0
+    "mini_turbo": 12
   },
   {
     "name": "Baby Mario • Goomba • Spike",
@@ -32,8 +31,7 @@
       "water": 12
     },
     "traction": 0,
-    "mini_turbo": 11,
-    "invincibility": 0
+    "mini_turbo": 11
   },
   {
     "name": "Baby Luigi • Dry Bones • Peepa",
@@ -50,8 +48,7 @@
       "water": 12
     },
     "traction": 0,
-    "mini_turbo": 11,
-    "invincibility": 0
+    "mini_turbo": 11
   },
   {
     "name": "Baby Rosalina • Sidestepper • Fish Bone",
@@ -68,8 +65,7 @@
       "water": 14
     },
     "traction": 0,
-    "mini_turbo": 11,
-    "invincibility": 0
+    "mini_turbo": 11
   },
   {
     "name": "Toadette • Nabbit",
@@ -86,8 +82,7 @@
       "water": 11
     },
     "traction": 0,
-    "mini_turbo": 11,
-    "invincibility": 0
+    "mini_turbo": 11
   },
   {
     "name": "Toad • Shy Guy • Stingby",
@@ -104,8 +99,7 @@
       "water": 11
     },
     "traction": 0,
-    "mini_turbo": 11,
-    "invincibility": 0
+    "mini_turbo": 11
   },
   {
     "name": "Koopa Troopa • Lakitu • Cheep Cheep",
@@ -122,8 +116,7 @@
       "water": 13
     },
     "traction": 0,
-    "mini_turbo": 11,
-    "invincibility": 0
+    "mini_turbo": 11
   },
   {
     "name": "Peach • Daisy • Coin Coffer",
@@ -140,8 +133,7 @@
       "water": 10
     },
     "traction": 0,
-    "mini_turbo": 10,
-    "invincibility": 0
+    "mini_turbo": 10
   },
   {
     "name": "Yoshi • Monty Mole",
@@ -158,8 +150,7 @@
       "water": 10
     },
     "traction": 0,
-    "mini_turbo": 10,
-    "invincibility": 0
+    "mini_turbo": 10
   },
   {
     "name": "Bowser Jr. • Dolphin",
@@ -176,8 +167,7 @@
       "water": 12
     },
     "traction": 0,
-    "mini_turbo": 10,
-    "invincibility": 0
+    "mini_turbo": 10
   },
   {
     "name": "Mario • Rocky Wrench",
@@ -194,8 +184,7 @@
       "water": 9
     },
     "traction": 0,
-    "mini_turbo": 9,
-    "invincibility": 0
+    "mini_turbo": 9
   },
   {
     "name": "Luigi • Hammer Bro • Pokey",
@@ -212,8 +201,7 @@
       "water": 9
     },
     "traction": 0,
-    "mini_turbo": 9,
-    "invincibility": 0
+    "mini_turbo": 9
   },
   {
     "name": "Birdo • Penguin",
@@ -230,8 +218,7 @@
       "water": 11
     },
     "traction": 0,
-    "mini_turbo": 9,
-    "invincibility": 0
+    "mini_turbo": 9
   },
   {
     "name": "Pauline • Piranha Plant • Snowman",
@@ -248,8 +235,7 @@
       "water": 8
     },
     "traction": 0,
-    "mini_turbo": 8,
-    "invincibility": 0
+    "mini_turbo": 8
   },
   {
     "name": "King Boo • Conkdor",
@@ -266,8 +252,7 @@
       "water": 8
     },
     "traction": 0,
-    "mini_turbo": 8,
-    "invincibility": 0
+    "mini_turbo": 8
   },
   {
     "name": "Rosalina • Cataquack",
@@ -284,8 +269,7 @@
       "water": 10
     },
     "traction": 0,
-    "mini_turbo": 8,
-    "invincibility": 0
+    "mini_turbo": 8
   },
   {
     "name": "Wario • Wiggler",
@@ -302,8 +286,7 @@
       "water": 7
     },
     "traction": 0,
-    "mini_turbo": 8,
-    "invincibility": 0
+    "mini_turbo": 8
   },
   {
     "name": "Donkey Kong • Cow • Chargin' Chuck",
@@ -320,8 +303,7 @@
       "water": 7
     },
     "traction": 0,
-    "mini_turbo": 8,
-    "invincibility": 0
+    "mini_turbo": 8
   },
   {
     "name": "Waluigi • Pianta",
@@ -338,8 +320,7 @@
       "water": 9
     },
     "traction": 0,
-    "mini_turbo": 8,
-    "invincibility": 0
+    "mini_turbo": 8
   },
   {
     "name": "Bowser",
@@ -356,7 +337,6 @@
       "water": 7
     },
     "traction": 0,
-    "mini_turbo": 8,
-    "invincibility": 0
+    "mini_turbo": 8
   }
 ]
